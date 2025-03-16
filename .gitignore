@@ -32,3 +32,6 @@
 *.app
 
 .vscode/
+
+backend/Crow/
+backend/build/_deps/crow-src/
